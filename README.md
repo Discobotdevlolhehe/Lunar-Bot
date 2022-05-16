@@ -1,7 +1,6 @@
-# Amirumna's Lunar-Bot
-Published by Amirumna
+# All in one bot
+Published by LMAO
 
-Tested here: https://discord.com/channels/333949691962195969/826699940750295070/884254467648802826
 
 ``Your bot seems to be an unmodified instance of [Lunar-Bot](https://github.com/bot-clones/Lunar-Bot/). We don't allow unmodified clones of other bots.``
 
